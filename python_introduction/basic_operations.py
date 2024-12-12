@@ -1,6 +1,6 @@
 # Define the numbers
-num1 = 10
-num2 = 5
+number1 = int(10)
+number2 = int(5)
 
 # Perform operations
 addition = num1 + num2
